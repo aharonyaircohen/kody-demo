@@ -1,0 +1,12 @@
+{
+  "executables": {
+    "default": "run"
+  },
+  "github": {
+    "owner": "aharonyaircohen",
+    "repo": "kody-demo"
+  },
+  "agent": {
+    "model": "minimax/MiniMax-M2.7-highspeed"
+  }
+}
